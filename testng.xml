@@ -1,0 +1,7 @@
+<suite name="All Test Suite" parallel="methods" thread-count="2">
+    <test name="StandaloneTestParallelExecution">
+        <classes>
+            <class name="tests.StandaloneTest"/>
+        </classes>
+    </test>
+</suite>
